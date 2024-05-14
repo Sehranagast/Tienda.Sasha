@@ -1,0 +1,68 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "img": "./img/adultcat.webp",
+      "titulo": "Adult CAT",
+      "precio": 599,
+      "descripcion": "Alimento para gato mayor de 1 año",
+      "categoria": "gatos"
+    },
+    {
+      "id": 1,
+      "img": "./img/kitten.webp",
+      "titulo": "KITTEN",
+      "precio": 799,
+      "descripcion": "Alimento para gato menor de 1 año",
+      "categoria": "gatos"
+    },
+    {
+      "id": 2,
+      "img": "./img/sterilized.webp",
+      "titulo": "Sterilized CAT",
+      "precio": 699,
+      "descripcion": "Alimento para gato castrado",
+      "categoria": "gatos"
+    },
+    {
+      "id": 3,
+      "img": "./img/urinary.webp",
+      "titulo": "Urinary CAT",
+      "precio": 599,
+      "descripcion": "Alimento urinario para gato adulto",
+      "categoria": "gatos"
+    },
+    {
+      "id": 4,
+      "img": "./img/mediumad.webp",
+      "titulo": "Large Breed",
+      "precio": 299,
+      "descripcion": "Alimento para perro adulto tamaño mediano/grande",
+      "categoria": "perros"
+    },
+    {
+      "id": 5,
+      "img": "./img/puppym.webp",
+      "titulo": "Puppy Complete",
+      "precio": 399,
+      "descripcion": "Alimento para cachorro tamaño mediano/grande",
+      "categoria": "perros"
+    },
+    {
+      "id": 6,
+      "img": "./img/smallad.webp",
+      "titulo": "Small Breed",
+      "precio": 499,
+      "descripcion": "Alimento para perro adulto pequeño",
+      "categoria": "perros"
+    },
+    {
+      "id": 7,
+      "img": "./img/exigent.webp",
+      "titulo": "Exigent",
+      "precio": 599,
+      "descripcion": "Alimento para perro de paladar exquisito",
+      "categoria": "gatos"
+    }
+  ]
+}

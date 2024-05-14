@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+  }
+  header, .alert{
+    z-index: 100;
+  }
+  /* MEDIA QUERIES */
+
+@media (min-width: 576px) {
+	.footer__subscribe {
+	  font-size: 1.4rem;
+	}
+	.footer__text--style {
+	  font-size: 1rem;
+	}
+	.featured__title {
+	  font-size: 1.7rem;
+	}
+  }
+  
+  @media (min-width: 768px) {
+	.banner__text {
+	  font-size: 2.3rem;
+	}
+	.featured {
+	  padding: 5rem;
+	}
+	.featured__title {
+	  font-size: 1.9rem;
+	}
+  }
+  
+  @media (min-width: 992px) {
+	.footer {
+	  padding: 2rem 20rem;
+	}
+  }
+  
+  @media (min-width: 1200px) {
+	.featured {
+	  padding: 0 8rem;
+	}
+  .textBanner {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0.7rem;
+    text-align: center;
+    color: black
+    
+  }
+  }
+  .description{
+    height: 25px;
+    overflow: hidden;
+    transition: height .3s ease-in .3s;
+  }
+  .description:hover{
+    height: 80px;
+  }
+  .carrito{
+    min-height: 80vh;
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .table__productos{
+    display: flex;
+  }
+  .table__productos > img{
+    width: 9rem;
+    object-fit: contain;
+    border-radius: 6px;
+    margin-right: 20px;
+  }
+  .table__cantidad > input{
+    width: 40px;
+    border: none;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 30px;
+    margin-bottom: 20px;
+  }
+  .hide, .remove{
+    display: none;
+  }
+  .footer{
+    background-color:rgba(128, 128, 128, 0.158);
+    }
