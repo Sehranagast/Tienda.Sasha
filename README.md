@@ -4,3 +4,5 @@ La web debe es una SPA, por lo cual no se debe recargar con ningún clic que se 
 parte de la web.
 
 El codigo está comentado por un mejor entendimiento del mismo
+
+https://tienda-sasha.netlify.app/
